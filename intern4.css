@@ -1,0 +1,15 @@
+.box-logo{
+    /* height:auto; */
+    width:120px;
+}
+
+body{
+    background-image: url('desktop-background.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+}

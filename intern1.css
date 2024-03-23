@@ -1,0 +1,33 @@
+p{
+    color: white;
+}
+
+.container1{
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 26px 42px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.box-logo{
+    height: auto;
+    width: 150px;
+}
+body{
+    background-image: url('desktop-background.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+h1{
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 270px;
+}
+

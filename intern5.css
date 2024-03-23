@@ -1,0 +1,16 @@
+.box-logo{
+    /* height:auto; */
+    width:120px;
+}
+
+body{
+    background-image:url('pg5.jpg');
+    height:100%;
+    width:100%;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+h1{
+    color: white;
+}
